@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="145e2c70-ea09-47cf-8d78-eda4387d054f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eGtRaLbcgn39I6OS80j4Ifx8lD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="145e2c70-ea09-47cf-8d78-eda4387d054f" name="Default Changelist" comment="" />
+      <created>1593959752550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593959752550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593960499343">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="211" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1373.873@67.27.1373.873" timestamp="1593960499343" />
+    <state x="466" y="264" width="564" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593960018279">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="466" y="264" width="564" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1373.873@67.27.1373.873" timestamp="1593960018279" />
+    <state width="1350" height="219" key="GridCell.Tab.0.bottom" timestamp="1593963267588">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="219" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1593963267588" />
+    <state width="1350" height="219" key="GridCell.Tab.0.center" timestamp="1593963267584">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="219" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1593963267584" />
+    <state width="1350" height="219" key="GridCell.Tab.0.left" timestamp="1593963267582">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="219" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1593963267582" />
+    <state width="1350" height="219" key="GridCell.Tab.0.right" timestamp="1593963267585">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="219" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1593963267585" />
+    <state x="382" y="111" key="SettingsEditor" timestamp="1593962618847">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="382" y="111" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1593962618847" />
+    <state x="478" y="354" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1593960122901">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="478" y="354" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1373.873@67.27.1373.873" timestamp="1593960122901" />
+  </component>
+</project>
